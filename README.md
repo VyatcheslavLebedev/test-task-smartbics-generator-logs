@@ -1,0 +1,1 @@
+# test-task-smartbics-generator-logs
